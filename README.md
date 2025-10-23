@@ -392,8 +392,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Author
 
 **Paramnoor Singh**
-- GitHub: [@yourusername](https://github.com/ParamnoorSingh15)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/paramnoor-singh-40083b291)
+- GitHub: [ParamnoorSingh15](https://github.com/ParamnoorSingh15)
+- LinkedIn: [MyLikedin](https://linkedin.com/in/paramnoor-singh-40083b291)
 
 ---
 
@@ -411,7 +411,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you encounter any issues or have questions:
 - Open an issue on GitHub
-- Contact: your.email@example.com
+- Contact: paramnoor231@gmail.com
 
 ---
 

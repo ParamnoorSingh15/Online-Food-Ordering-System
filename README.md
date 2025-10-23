@@ -1,4 +1,4 @@
-# � Foodie - Online Food Ordering System
+# Foodie - Online Food Ordering System
 
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-Web%20Forms-5C2D91?style=for-the-badge&logo=.net)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -8,7 +8,7 @@
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 - [About](#about)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
@@ -24,7 +24,7 @@
 
 ---
 
-## 🧩 About
+## About
 
 **Foodie** is a full-featured online food ordering system built with **ASP.NET Web Forms** and **MySQL**. The application provides a complete platform for customers to browse food items, place orders, and for administrators to manage the entire food ordering system including categories, products, and orders.
 
@@ -39,30 +39,30 @@ This project demonstrates:
 
 ---
 
-## 🌟 Features
+## Features
 
-### 👥 User Features
-- ✅ Browse food menu by categories
-- ✅ View detailed food item information
-- ✅ Responsive and modern UI design
-- ✅ Special offers and promotions section
-- ✅ About and Contact pages
-- ✅ Customer testimonials section
-- ✅ Shopping cart functionality
+### User Features
+- Browse food menu by categories
+- View detailed food item information
+- Responsive and modern UI design
+- Special offers and promotions section
+- About and Contact pages
+- Customer testimonials section
+- Shopping cart functionality
 
-### 🔐 Admin Features
-- ✅ Secure admin login system
-- ✅ Dashboard with statistics
-- ✅ Category management (Add, Edit, Delete)
-- ✅ Product management with image upload
-- ✅ Order management system
-- ✅ DataTables integration for data display
-- ✅ Image validation (.jpg, .jpeg, .png)
-- ✅ Active/Inactive status toggle
+### Admin Features
+- Secure admin login system
+- Dashboard with statistics
+- Category management (Add, Edit, Delete)
+- Product management with image upload
+- Order management system
+- DataTables integration for data display
+- Image validation (.jpg, .jpeg, .png)
+- Active/Inactive status toggle
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Backend
 - **Framework:** ASP.NET Web Forms (.NET Framework 4.8)
@@ -96,7 +96,7 @@ This project demonstrates:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Online-Food-Ordering-System-main/
@@ -141,7 +141,7 @@ Online-Food-Ordering-System-main/
 
 ---
 
-## 📋 Prerequisites
+## Prerequisites
 
 Before running this project, ensure you have the following installed:
 
@@ -154,7 +154,7 @@ Before running this project, ensure you have the following installed:
 
 ---
 
-## 🚀 Installation & Setup
+## Installation & Setup
 
 ### Step 1: Clone the Repository
 ```bash
@@ -189,7 +189,7 @@ git clone https://github.com/yourusername/Online-Food-Ordering-System.git
 
 ---
 
-## 🗄️ Database Configuration
+## Database Configuration
 
 ### Step 1: Create Database
 Open MySQL Workbench or MySQL command line and execute:
@@ -276,7 +276,7 @@ INSERT INTO Category (Name, ImageUrl, IsActive) VALUES
 
 ---
 
-## � Usage
+## Usage
 
 ### Running the Application
 
@@ -295,7 +295,7 @@ INSERT INTO Category (Name, ImageUrl, IsActive) VALUES
 
 ---
 
-## 🔑 Admin Credentials
+## Admin Credentials
 
 Default admin credentials are configured in `Web.config`:
 
@@ -304,7 +304,7 @@ Username: Admin
 Password: 123
 ```
 
-**⚠️ Security Note:** Change these credentials in production! Update the values in `Web.config`:
+**Security Note:** Change these credentials in production! Update the values in `Web.config`:
 
 ```xml
 <appSettings>
@@ -315,21 +315,30 @@ Password: 123
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ### User Interface
-| Homepage | Menu Page | About Page |
-|----------|-----------|------------|
-| ![Home](TemplateFiles/images/hero-bg.jpg) | ![Menu](TemplateFiles/images/f1.png) | ![About](TemplateFiles/images/about-img.png) |
 
-### Admin Dashboard
-| Dashboard | Category Management |
-|-----------|---------------------|
-| *Add screenshot* | *Add screenshot* |
+#### Homepage
+![Homepage](TemplateFiles/images/hero-bg.jpg)
+
+#### Menu Page
+![Menu Page](Screenshots/Menu.jpg)
+
+### Admin Panel
+
+#### Admin Login
+![Admin Login](Screenshots/Login.jpg)
+
+#### Admin Dashboard
+![Admin Dashboard](Screenshots/Dashboard.jpg)
+
+### Database Schema
+![Database Schema](Screenshots/Schema.jpg)
 
 ---
 
-## 🔧 Troubleshooting
+## Troubleshooting
 
 ### Common Issues
 
@@ -355,7 +364,7 @@ Password: 123
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please follow these steps:
 
@@ -367,7 +376,7 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## 📝 Future Enhancements
+## Future Enhancements
 
 - [ ] User authentication and registration
 - [ ] Shopping cart and checkout system
@@ -381,21 +390,21 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 👨‍💻 Author
+## Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+**Paramnoor Singh**
+- GitHub: [@yourusername](https://github.com/ParamnoorSingh15)
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/paramnoor-singh-40083b291)
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Bootstrap for the responsive framework
 - DataTables for advanced table features
@@ -405,7 +414,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 Support
+## Support
 
 If you encounter any issues or have questions:
 - Open an issue on GitHub

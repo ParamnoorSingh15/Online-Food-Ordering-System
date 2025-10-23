@@ -317,24 +317,17 @@ Password: 123
 
 ## Screenshots
 
-### User Interface
+### Menu
+![Menu](Screenshots/Menu.jpg)
 
-#### Homepage
-![Homepage](TemplateFiles/images/hero-bg.jpg)
+### Login
+![Login](Screenshots/Login.jpg)
 
-#### Menu Page
-![Menu Page](Screenshots/Menu.jpg)
+### Dashboard
+![Dashboard](Screenshots/Dashboard.jpg)
 
-### Admin Panel
-
-#### Admin Login
-![Admin Login](Screenshots/Login.jpg)
-
-#### Admin Dashboard
-![Admin Dashboard](Screenshots/Dashboard.jpg)
-
-### Database Schema
-![Database Schema](Screenshots/Schema.jpg)
+### Schema
+![Schema](Screenshots/Schema.jpg)
 
 ---
 
